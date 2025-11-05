@@ -30,7 +30,7 @@ The aim is to demonstrate the integration of mechanical design, electronics, and
 
 The robotic crab will feature:
 
-* Six to eight servo-driven legs for motion.
+* four to six servo-driven legs for motion.
 
 * An Arduino microcontroller for logic and control.
 
