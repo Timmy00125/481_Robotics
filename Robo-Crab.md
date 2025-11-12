@@ -20,8 +20,6 @@ The aim is to demonstrate the integration of mechanical design, electronics, and
 
 * To enable the robot to detect and avoid obstacles autonomously.
 
-* To integrate Bluetooth control for manual operation via a mobile device.
-
 * To promote understanding of robotics principles including motion control, power management, and sensor integration.
 
 ---
@@ -35,8 +33,6 @@ The robotic crab will feature:
 * An Arduino microcontroller for logic and control.
 
 * Ultrasonic sensors for object detection.
-
-* Bluetooth module for wireless control.
 
 * Rechargeable battery system for mobility and portability.
 
@@ -64,8 +60,6 @@ The robotic crab will feature:
 
 * Ultrasonic Sensor (HC-SR04)
 
-* Bluetooth Module (HC-05)
-
 * Jumper wires
 
 * Breadboard
@@ -81,8 +75,6 @@ The robotic crab will feature:
 ### **Software Components**
 
 * Arduino IDE
-
-* Bluetooth Controller Android App (optional)
 
 * CAD software (Fusion 360 or TinkerCAD for frame design)
 
